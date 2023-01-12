@@ -112,7 +112,7 @@ void multiply(char *s1, char *s2)
  * @argc: number of arguments
  * @argv: arguments array
  *
- * Return: 0 on success 98 on faliure
+ * Return: 0 on success 98 on failure
  */
 
 int main(int argc, char *argv[])
