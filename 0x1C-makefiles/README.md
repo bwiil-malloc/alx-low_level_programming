@@ -1,1 +1,1 @@
-C makefiles Project.
+C makefiles
